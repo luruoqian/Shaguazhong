@@ -1,2 +1,1 @@
-# Shaguazhong
-时钟
+# Arduino天气时钟
